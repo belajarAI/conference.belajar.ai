@@ -1,0 +1,15 @@
+title: AI Conferences in Indonesia
+description: Countdowns to AI conference deadlines in Indonesia
+author: Belajar.AI
+
+domain: "conference.belajar.ai"
+baseurl: ""
+
+twitter_hashtag: belajardotai
+github_username: belajardotai
+github_repo: conference.belajardotai
+
+markdown: kramdown
+ga_id:
+
+include: ['_pages']

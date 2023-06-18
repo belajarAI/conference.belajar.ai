@@ -1,0 +1,32 @@
+---
+- title: PRICAI
+  year: 2023
+  id: pricai2023
+  full_name: Pacific Rim International Conference on Artificial Intelligence
+  link: https://www.pricai.org/2023/
+  deadline: '2023-06-26 23:59:59'
+  timezone: Asia/Jakarta
+  place: Jakarta, Indonesia
+  date: November 17 - 19, 2023
+  start: 2023-11-17
+  end: 2023-11-19
+  hindex: 0
+  sub: [ML,CV]
+  sub_str: "ML,CV"
+  note: Main Track submission dedline on June 12th 2023; AI-Impact Track submission deadline on June 26th 2023
+
+- title: ICA
+  year: 2023
+  id: icaicta2023
+  full_name: International Conference on Instrumentation, Control and Automation (ICA)
+  link: https://icaitb.id/
+  deadline: '2023-05-31 23:59:59'
+  timezone: Asia/Jakarta
+  place: Lombok, Indonesia
+  date: August 9 - 11, 2023
+  start: 2023-08-09
+  end: 2023-08-11
+  hindex: 0
+  sub: AU
+  sub_str: "AU"
+  note: 
