@@ -1,4 +1,20 @@
 ---
+- title: AIIUCW
+  year: 2023
+  id: aiiucw2023
+  full_name: Workshop on AI Use Cases for Priority Sectors in Indonesia National Strategy
+  link: https://korika.id/conference
+  deadline: '2023-08-29 23:59:59'
+  timezone: Asia/Jakarta
+  place: Jakarta, Indonesia
+  date: November 15 - 16, 2023
+  start: 2023-11-15
+  end: 2023-11-16
+  hindex: 0
+  sub: [ML,CV,NLP,SP,RO,KR]
+  sub_str: "ML,CV,NLP,SP,RO,KR"
+  note: 
+
 - title: PRICAI
   year: 2023
   id: pricai2023
@@ -11,8 +27,8 @@
   start: 2023-11-17
   end: 2023-11-19
   hindex: 0
-  sub: [ML,CV]
-  sub_str: "ML,CV"
+  sub: ML
+  sub_str: ML
   note: Main Track submission dedline on June 12th 2023; AI-Impact Track submission deadline on June 26th 2023
 
 - title: ICA
