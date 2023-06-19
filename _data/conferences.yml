@@ -1,4 +1,20 @@
 ---
+- title: ICRAMET
+  year: 2023
+  id: icramet2023
+  full_name: International Conference on Radar, Antenna, Microwave, Electronics and Telecommunications 
+  link: https://conference.brin.go.id/icramet2023/
+  deadline: '2023-08-20 23:59:59'
+  timezone: Asia/Jakarta
+  place: Virtual
+  date: November 15 - 16, 2023
+  start: 2023-11-15
+  end: 2023-11-16
+  hindex: 0
+  sub: [ML,CV,SP,RO]
+  sub_str: "ML,CV,SP,KR"
+  note: 
+
 - title: INNODEL
   year: 2023
   id: innodel2023
