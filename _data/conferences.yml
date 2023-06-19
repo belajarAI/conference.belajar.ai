@@ -11,8 +11,8 @@
   start: 2023-10-07
   end: 2023-10-09
   hindex: 0
-  sub: AU
-  sub_str: "AU"
+  sub: [ML,CV,NLP,SP,DM,KR]
+  sub_str: "ML,CV,NLP,SP,DM,KR"
   note: 1st phase submission deadline on June 13th; 2nd phase submission deadline on July 21th.
 
 - title: IEEEICT
