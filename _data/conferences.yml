@@ -1,4 +1,20 @@
 ---
+- title: IEEEICT
+  year: 2023
+  id: ieeeict2023
+  full_name: IEEE International Conference on Telecommunications
+  link: https://ict2023.del.ac.id/
+  deadline: '2023-09-08 23:59:59'
+  timezone: Asia/Jakarta
+  place: Toba, Indonesia
+  date: November 8-9, 2023
+  start: 2023-11-08
+  end: 2023-11-09
+  hindex: 0
+  sub: [DM,SP]
+  sub_str: "DM,SP"
+  note: 1st batch submission deadline on August 11th; 2nd batch submission deadline on September 8th.
+
 - title: PKAW
   year: 2023
   id: pkaw2023
