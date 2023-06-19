@@ -1,4 +1,20 @@
 ---
+- title: PKAW
+  year: 2023
+  id: pkaw2023
+  full_name: Principle and practice of data and Knowledge Acquisition Workshop
+  link: https://pkawwebsite.github.io/2023/#call-for-paper
+  deadline: '2023-07-15 23:59:59'
+  timezone: UTC-12
+  place: Jakarta, Indonesia
+  date: November 15, 2023
+  start: 2023-11-15
+  end: 2023-11-15
+  hindex: 0
+  sub: [ML,DM,KR,HCI]
+  sub_str: "ML,DM,KR,HCI"
+  note: 
+
 - title: AIRoSIP
   year: 2023
   id: airosip2023
