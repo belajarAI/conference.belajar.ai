@@ -1,4 +1,20 @@
 ---
+- title: AIRoSIP
+  year: 2023
+  id: airosip2023
+  full_name: International Conference on Artificial Intelligence, Robotics, Signal and Image Processing (AIRoSIP)
+  link: https://airosip.umy.ac.id/2023/
+  deadline: '2023-06-30 23:59:59'
+  timezone: Asia/Jakarta
+  place: Jakarta, Indonesia
+  date: August 9 - 10, 2023
+  start: 2023-08-9
+  end: 2023-08-10
+  hindex: 0
+  sub: [ML,CV,SP,RO]
+  sub_str: "ML,CV,SP,RO"
+  note: 
+
 - title: AIIUCW
   year: 2023
   id: aiiucw2023
