@@ -1,4 +1,21 @@
 ---
+- title: INNODEL
+  year: 2023
+  id: innodel2023
+  full_name: International Conference on Innovation In Open and Distance Learning
+  link: https://innodel.lppm.ut.ac.id/
+  abstraact_deadline: '2023-07-03 23:59:59'
+  deadline: '2023-09-30 23:59:59'
+  timezone: Asia/Jakarta
+  place: Yogyakarta, Indonesia
+  date: October 23 - 24, 2023
+  start: 2023-10-23
+  end: 2023-10-24
+  hindex: 0
+  sub: [ML,KR]
+  sub_str: "ML,KR"
+  note: 
+
 - title: ICAICTA
   year: 2023
   id: icaicta2023
