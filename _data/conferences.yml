@@ -1,4 +1,52 @@
 ---
+- title: PRIWAKG
+  year: 2023
+  id: priwakg2023
+  full_name: The Pacific-Rim International Workshop on Applied Knowledge Graphs
+  link: https://priwakg.org/
+  deadline: '2023-09-15 23:59:59'
+  timezone: UTC-12
+  place: Jakarta, Indonesia (Hybrid)
+  date: November 16, 2023
+  start: 2023-11-15
+  end: 2023-11-15
+  hindex: 0
+  sub: [ML,NLP,CV,KR]
+  sub_str: "ML,NLP,CV,KR"
+  note: 
+
+- title: DemocrAI
+  year: 2023
+  id: democrai2023
+  full_name: International Workshop on Democracy and AI
+  link: https://sites.google.com/kyoto-u.ac.jp/democrai2023a
+  deadline: '2023-09-01 23:59:59'
+  timezone: UTC-12
+  place: Jakarta, Indonesia
+  date: November 16, 2023
+  start: 2023-11-16
+  end: 2023-11-16
+  hindex: 0
+  sub: [ML,NLP,CV]
+  sub_str: "ML,NLP,CV"
+  note: 
+
+- title: AI4Environment
+  year: 2023
+  id: ai4environment2023
+  full_name: Symposium on Artificial Intelligence for the Environment 
+  link: https://www.pricai.org/2023/workshop/ai4environment/
+  deadline: '2023-09-10 23:59:59'
+  timezone: Asia/Jakarta
+  place: Jakarta, Indonesia
+  date: November 15, 2023
+  start: 2023-11-15
+  end: 2023-11-15
+  hindex: 0
+  sub: [ML,DM,AU]
+  sub_str: "ML,DM,AU"
+  note: 
+
 - title: ICRAMET
   year: 2023
   id: icramet2023
