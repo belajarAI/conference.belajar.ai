@@ -1,4 +1,20 @@
 ---
+- title: ICISS
+  year: 2023
+  id: iciss2023
+  full_name: International Conference on ICT for Smart Society 
+  link: https://iciss.goesmart.id/
+  deadline: '2023-07-01 23:59:59'
+  timezone: Asia/Jakarta
+  place: Jakarta, Indonesia (Hybrid)
+  date: September 6 - 7, 2023
+  start: 2023-9-6
+  end: 2023-9-7
+  hindex: 0
+  sub: [ML,DM,AU]
+  sub_str: "ML,DM,AU"
+  note: 
+
 - title: PRIWAKG
   year: 2023
   id: priwakg2023
