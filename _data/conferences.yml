@@ -1,4 +1,20 @@
 ---
+- title: ICoABCD
+  year: 2023
+  id: icoabcd2023
+  full_name: International Conference on Artificial Intelligence, Blockchain, Cloud Computing, and Data Analytics 
+  link: https://icoabcd.telkomuniversity.ac.id/
+  deadline: '2023-09-16 23:59:59'
+  timezone: Asia/Jakarta
+  place: Bali, Indonesia (Hybrid)
+  date: November 13 - 15, 2023
+  start: 2023-11-13
+  end: 2023-11-15
+  hindex: 0
+  sub: [ML,DM,NLP,KR,CV,BC,CC]
+  sub_str: "ML,DM,NLP,KR,CV,BC,CC"
+  note: 
+
 - title: ICISS
   year: 2023
   id: iciss2023

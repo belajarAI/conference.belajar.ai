@@ -29,3 +29,9 @@
 - name: Human-Computer Interaction
   sub: HCI
   color: "#a83232"
+- name: Blockchain
+  sub: BC
+  color: "#a83200"
+- name: Cloud Computing
+  sub: CC
+  color: "#3dcc9f"
