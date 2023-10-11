@@ -35,3 +35,9 @@
 - name: Cloud Computing
   sub: CC
   color: "#3dcc9f"
+- name: Computer Networking
+  sub: NET
+  color: "#3daa9f"
+- name: Cyber Security
+  sub: SEC
+  color: "#a8aa9f"

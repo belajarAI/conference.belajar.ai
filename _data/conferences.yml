@@ -1,4 +1,20 @@
 ---
+- title: ICAI3S
+  year: 2023
+  id: icai3s2023
+  full_name: 1st International Conference on Advanced Informatics and Intelligent Information Systems
+  link: https://icai3s.upnyk.ac.id/
+  deadline: '2023-10-30 23:59:59'
+  timezone: Asia/Jakarta
+  place: Yogyakarta, Indonesia (Hybrid)
+  date: November 29 - 30, 2023
+  start: 2023-11-29
+  end: 2023-11-30
+  hindex: 0
+  sub: [ML,DM,NLP,CV,BC,CC,SP,NET,SEC]
+  sub_str: "ML,DM,NLP,CV,BC,CC,SP,NET,SEC"
+  note: 
+  
 - title: SEALP
   year: 2023
   id: sealp2023
